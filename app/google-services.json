@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983665523066",
+    "project_id": "medicord-c7839",
+    "storage_bucket": "medicord-c7839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983665523066:android:4cbac18880753147657ec3",
+        "android_client_info": {
+          "package_name": "com.example.medicord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983665523066-k6sfar69bb8rnlftltet8pg3otlj3mjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJNP89g99XZlcCjVM8Ei_VOWirXwMIpGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983665523066-k6sfar69bb8rnlftltet8pg3otlj3mjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
