@@ -75,7 +75,6 @@ public class LoginActivity extends AppCompatActivity {
                     return;
                 }
 
-<<<<<<< HEAD
         if(!userName.isEmpty() && Patterns.EMAIL_ADDRESS.matcher(userName).matches() && !password.isEmpty()){
             //intent pass hoga, login hone k baad and user will go to next activity
             Toast.makeText(getApplicationContext(), "User Logged in successfuly", Toast.LENGTH_SHORT).show();
@@ -94,7 +93,7 @@ public class LoginActivity extends AppCompatActivity {
 
             }
         }
-=======
+
                 if(!userName.isEmpty() && Patterns.EMAIL_ADDRESS.matcher(userName).matches() && !password.isEmpty()){
                     //intent pass hoga, login hone k baad and user will go to next activity
                     Toast.makeText(getApplicationContext(), "User Logged in successfuly", Toast.LENGTH_SHORT).show();
@@ -113,7 +112,7 @@ public class LoginActivity extends AppCompatActivity {
 
                     }
                 }
->>>>>>> 5cc8ab3 (Login and Signup)
+
 
 
                 progressBar.setVisibility(view.VISIBLE);
@@ -209,13 +208,10 @@ public class LoginActivity extends AppCompatActivity {
         });
 
     } //oncreate closing
-<<<<<<< HEAD
+
 
     }// Appcompact closing
 
 
 
 
-=======
-}
->>>>>>> 5cc8ab3 (Login and Signup)
