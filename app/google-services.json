@@ -1,33 +1,55 @@
 {
   "project_info": {
+<<<<<<< HEAD
     "project_number": "983665523066",
     "project_id": "medicord-c7839",
     "storage_bucket": "medicord-c7839.appspot.com"
+=======
+    "project_number": "655278550042",
+    "project_id": "medicord-6d8c1",
+    "storage_bucket": "medicord-6d8c1.appspot.com"
+>>>>>>> 9f9628d (Login and Signup)
   },
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:983665523066:android:4cbac18880753147657ec3",
+=======
+        "mobilesdk_app_id": "1:655278550042:android:d969282cb36642d7abf5a3",
+>>>>>>> 9f9628d (Login and Signup)
         "android_client_info": {
           "package_name": "com.example.medicord"
         }
       },
       "oauth_client": [
         {
+<<<<<<< HEAD
           "client_id": "983665523066-k6sfar69bb8rnlftltet8pg3otlj3mjs.apps.googleusercontent.com",
+=======
+          "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+>>>>>>> 9f9628d (Login and Signup)
           "client_type": 3
         }
       ],
       "api_key": [
         {
+<<<<<<< HEAD
           "current_key": "AIzaSyCJNP89g99XZlcCjVM8Ei_VOWirXwMIpGg"
+=======
+          "current_key": "AIzaSyCmomL1hMUQpl8Jbw1noFpj8UfvGA2FynA"
+>>>>>>> 9f9628d (Login and Signup)
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
+<<<<<<< HEAD
               "client_id": "983665523066-k6sfar69bb8rnlftltet8pg3otlj3mjs.apps.googleusercontent.com",
+=======
+              "client_id": "655278550042-d9m4ar51mod6b1r98f85dudbjtpe0ogh.apps.googleusercontent.com",
+>>>>>>> 9f9628d (Login and Signup)
               "client_type": 3
             }
           ]
